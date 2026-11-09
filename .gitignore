@@ -2,3 +2,6 @@
 .user.yml
 /logs
 logs
+.gitignore
+.venv/
+myvenv/
